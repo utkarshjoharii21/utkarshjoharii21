@@ -29,14 +29,18 @@
 ---
 
 ## 📌 Projects
-🚧 **Currently building projects** to apply my learning in real-world scenarios.
 
-- Frontend with modern JavaScript & React  
-- Backend basics with Node.js & Express  
-- APIs, databases, and clean project structure  
+### 🖥️ Real-Time Coding Interview Platform
+🚀 **Full-Stack Web App** for conducting **real-time coding interviews**!  
+💻 VSCode-like code editor | 🎥 Video Rooms | 💬 Live Chat | ⚡ Instant Code Feedback  
 
-> Projects will be added here as they are completed.
+**Tech Stack:**  
+<kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>Clerk</kbd> <kbd>Stream SDK</kbd>  
 
+✨ *Fun Features:*  
+- 🎉 Confetti on success  
+- 🧩 Practice Mode for candidates  
+- 🔒 Secure Room Access (2 participants)  
 ---
 
 ## 📊 GitHub Overview
