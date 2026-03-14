@@ -1,5 +1,3 @@
-# utkarshjoharii21
-
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">Full Stack Developer | Fresher</h3>
 
@@ -8,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarshjohari21&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=utkarshjoharii21&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -30,6 +28,15 @@
 
 ## 📌 Projects
 
+### 🖥️ PingMe – Real-Time Chat App
+🚀 Full-stack real-time chat application with authentication, notifications, and image sharing.  
+
+**Features:** 🔐 JWT Auth | 💬 Real-time Chat | 🟢 Online Status | 🖼️ Image Upload | 🔔 Typing & Notification Sounds  
+
+**Tech Stack:** <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>Socket.io</kbd> <kbd>JWT</kbd> <kbd>Tailwind CSS</kbd>  
+
+---
+
 ### 🖥️ Real-Time Coding Interview Platform
 🚀 **Full-Stack Web App** for conducting **real-time coding interviews**!  
 💻 VSCode-like code editor | 🎥 Video Rooms | 💬 Live Chat | ⚡ Instant Code Feedback  
@@ -40,7 +47,8 @@
 ✨ *Fun Features:*  
 - 🎉 Confetti on success  
 - 🧩 Practice Mode for candidates  
-- 🔒 Secure Room Access (2 participants)  
+- 🔒 Secure Room Access (2 participants)
+
 ---
 
 ## 📊 GitHub Overview
