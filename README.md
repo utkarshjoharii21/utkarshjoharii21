@@ -51,23 +51,24 @@
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarshjoharii21&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utkarshjoharii21&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshjoharii21&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshjoharii21&hide_border=true" height="160"/>
+  <img src="https://leetcard.jacoblin.cool/Utkarshjoharii21?theme=light&font=Inter&ext=contest" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshjoharii21&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshjoharii21&theme=github-light&hide_border=true" />
 </p>
 
 ---
