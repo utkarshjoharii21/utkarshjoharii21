@@ -30,7 +30,8 @@
 
 ### 🖥️ PingMe – Real-Time Chat App
 🚀 **Full-stack real-time chat application with authentication, notifications, and image sharing.**
-🔐 JWT Auth | 💬 Real-time Chat | 🟢 Online Status | 🖼️ Image Upload | 🔔 Typing Indicator & Notification Sounds
+
+🔐 JWT Auth | 💬 Real-time Chat | ⚡ Instant message delivery | 🟢 Live user activity
 
 **Tech Stack:**
 <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>Socket.io</kbd> <kbd>JWT</kbd> <kbd>Tailwind CSS</kbd>
@@ -45,6 +46,7 @@
 
 ### 🖥️ Real-Time Coding Interview Platform
 🚀 **Full-Stack Web App** for conducting **real-time coding interviews**!  
+
 💻 VSCode-like code editor | 🎥 Video Rooms | 💬 Live Chat | ⚡ Instant Code Feedback  
 
 **Tech Stack:**  <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>Clerk</kbd> <kbd>Stream SDK</kbd>  
@@ -58,7 +60,8 @@
 
 ### 🖥️ Uber Clone – Real-Time Ride Sharing Platform
 🚀 **Full-Stack Ride Sharing Platform with real-time tracking and intelligent ride matching.**
-Features: 🚕 Ride Booking | 📍 Live Location Tracking | ⚡ Real-time Matching | 🔐 Secure Authentication | 📊 Ride Management
+
+🚕 Ride Booking | 📍 Live Location Tracking | ⚡ Real-time Matching | 🔐 Secure Authentication | 📊 Ride Management
 
 **Tech Stack:**<kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>Socket.io</kbd> <kbd>JWT</kbd>
 
