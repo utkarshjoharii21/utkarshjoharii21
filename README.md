@@ -29,11 +29,17 @@
 ## 📌 Projects
 
 ### 🖥️ PingMe – Real-Time Chat App
-🚀 Full-stack real-time chat application with authentication, notifications, and image sharing.  
+🚀 **Full-stack real-time chat application with authentication, notifications, and image sharing.**
+🔐 JWT Auth | 💬 Real-time Chat | 🟢 Online Status | 🖼️ Image Upload | 🔔 Typing Indicator & Notification Sounds
 
-**Features:** 🔐 JWT Auth | 💬 Real-time Chat | 🟢 Online Status | 🖼️ Image Upload | 🔔 Typing & Notification Sounds  
+**Tech Stack:**
+<kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>Socket.io</kbd> <kbd>JWT</kbd> <kbd>Tailwind CSS</kbd>
 
-**Tech Stack:** <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>Socket.io</kbd> <kbd>JWT</kbd> <kbd>Tailwind CSS</kbd>  
+✨ *Fun Features:*
+- 🟢 See who's online instantly
+- ⌨️ Know when someone is typing in real-time
+- 🔔 Get instant sound alerts for new messages
+- 🖼️ Share images seamlessly inside chat
 
 ---
 
@@ -41,13 +47,25 @@
 🚀 **Full-Stack Web App** for conducting **real-time coding interviews**!  
 💻 VSCode-like code editor | 🎥 Video Rooms | 💬 Live Chat | ⚡ Instant Code Feedback  
 
-**Tech Stack:**  
-<kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>Clerk</kbd> <kbd>Stream SDK</kbd>  
+**Tech Stack:**  <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>Clerk</kbd> <kbd>Stream SDK</kbd>  
 
 ✨ *Fun Features:*  
 - 🎉 Confetti on success  
 - 🧩 Practice Mode for candidates  
 - 🔒 Secure Room Access (2 participants)
+
+---
+
+### 🖥️ Uber Clone – Real-Time Ride Sharing Platform
+🚀 **Full-Stack Ride Sharing Platform with real-time tracking and intelligent ride matching.**
+Features: 🚕 Ride Booking | 📍 Live Location Tracking | ⚡ Real-time Matching | 🔐 Secure Authentication | 📊 Ride Management
+
+**Tech Stack:**<kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>Socket.io</kbd> <kbd>JWT</kbd>
+
+✨ *Highlights:*
+- 👥 Handled 100+ simulated users with real-time updates
+- ⚡ Reduced ride confirmation time by 40% using WebSockets
+- 🔧 Built 15+ REST APIs for authentication, booking, and ride management
 
 ---
 
