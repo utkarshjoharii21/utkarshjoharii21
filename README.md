@@ -74,36 +74,35 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utkarshjoharii21&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshjoharii21&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshjoharii21&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshjoharii21&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🧠 LeetCode Stats
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Utkarshjoharii21?theme=light&font=Inter&ext=contest" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshjoharii21&theme=react-dark&hide_border=true"/>
 </p>
+
 
 ---
 
-## 📈 GitHub Activity Graph
+## ☕ Support
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshjoharii21&theme=github-light&hide_border=true" />
+  If you like my work, consider supporting me 😊
 </p>
 
----
-
-## 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/utkarshjoharii/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:utkarshjohari863@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </p>
 
+---
+
 <p align="center">
-  <i>Learning every day, building every week.</i>
+  ⭐ Keep learning, keep building.
 </p>
