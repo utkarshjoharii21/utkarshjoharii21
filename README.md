@@ -1,13 +1,5 @@
-<h1 align="center">Hi 👋, I'm Utkarsh</h1>
+<h1 align="center">Hi 👋, I'm Utkarsh Johari</h1>
 <h3 align="center">Full Stack Developer | Fresher</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer;Learning+by+Building+Projects;Fresher+%7C+Open+to+Opportunities" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarshjoharii21&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
